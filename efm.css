@@ -1,0 +1,8 @@
+ol li{
+    display: inline;
+    float: right;
+    margin-left: 20px;
+}
+nav{
+    background-color: aqua;
+}
